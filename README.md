@@ -1,10 +1,10 @@
-# correios-calc
+# correioscalc
 
 ### Para clonar o repositório e rodar em sua máquina local (to clone the repo and run in your local machine):
 
 1. Clone o repositório em sua máquina local (clone the repo to your local machine):
 ```
-git clone https://github.com/cewitte/correios-calc.git
+git clone https://github.com/cewitte/correioscalc.git
 ```
 
 2. Execute o código (run the code):
@@ -17,7 +17,7 @@ go run main.go
 
 ### Para usar o código em seu projeto Go existente (using the code in your existing Go project):
 ```
-go get -u github.com/cewitte/correios-calc
+go get -u github.com/cewitte/correioscalc
 ```
 
 
