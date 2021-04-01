@@ -1,12 +1,16 @@
 # correios-calc
 
-##Instruções (Instructions)
+## Instruções (Instructions)
 
 1. Clone o repositório em sua máquina local (clone the repo to your local machine):
-`git clone https://github.com/cewitte/correios-calc.git`
+```
+git clone https://github.com/cewitte/correios-calc.git
+```
 
 2. Execute o código (run the code):
-`go run main.go`
+```
+go run main.go
+`
 
 3. Siga o seu coração e faça o Bem (follow your heart and do Good).
 
