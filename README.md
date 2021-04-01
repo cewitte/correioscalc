@@ -15,7 +15,7 @@ go run main.go
 3. Siga o seu coração e faça o Bem (follow your heart and do Good).
 
 
-### Para usar o código em um projeto Go existente (to use the code in an existing Go project):
+### Para usar o código em seu projeto Go existente (using the code in your existing Go project):
 ```
 go get -u github.com/cewitte/correios-calc
 ```
