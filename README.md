@@ -14,6 +14,8 @@ go run main.go
 
 3. Siga o seu coração e faça o Bem (follow your heart and do Good).
 
+
+
 ## Notas em Português do Brasil
 Esta é uma implementação Go (Golang) do serviço web dos Correios do Brasil (também conhecido como "Correios") que permite que você obtenha o preço e o prazo de envio de um pacote com base em alguns parâmetros.
 
@@ -30,6 +32,7 @@ Suas contribuições são bem vindas. Que tal um Pull Request?
 
 ### Licenciamento
 The Apache 2.0 licence. Por favor, veja o arquivo da licença.
+
 
 ## Notes in U.S. English
 This is a Go (Golang) implementation of the Brazilian Postal Service's (aka "Correios") web service which allows you to grab the price and deadline of a package shipment based on some parameters.
@@ -48,4 +51,4 @@ Your contributions are welcome. What about a Pull Request?
 ### Licensing
 The Apache 2.0 License. Please see the License File for more.
 
-
+https://camo.githubusercontent.com/30ac25b97ea34a4f820d01ca7433204f13b5a218d8fc947deef6464d237d8e39/687474703a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667
