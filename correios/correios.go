@@ -55,7 +55,7 @@ type CalcPrecoPrazo struct {
 	NVlDiametro         float64 // Cm
 	SCdMaoPropria       string  // S ou N (Sim ou Não).
 	NVlValorDeclarado   float64 // Se não quiser, informar zero.
-	SCdAvisoRecebimento string  // Se não quiser, informar zero.
+	SCdAvisoRecebimento string  // S ou N (Sim ou Não).
 }
 
 // Servicos representa o XML de retorno dos correios.
