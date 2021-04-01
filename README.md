@@ -14,7 +14,7 @@ go run main.go
 
 3. Siga o seu coração e faça o Bem (follow your heart and do Good).
 
-### Notas em Português do Brasil
+## Notas em Português do Brasil
 Esta é uma implementação Go (Golang) do serviço web dos Correios do Brasil (também conhecido como "Correios") que permite que você obtenha o preço e o prazo de envio de um pacote com base em alguns parâmetros.
 
 Essa implementação foi baseada no **"Manual técnico de integração web services ao Sistema Calculador de Preço e Prazo - SCPP.pdf"** na versão 2.2 de 25/09/2019. Meu último teste com sucesso foi realizado na noite de 31 de março de 2021, portanto acredito que a documentação continua (e continuará) válida.
@@ -31,7 +31,7 @@ Suas contribuições são bem vindas. Que tal um Pull Request?
 ### Licenciamento
 The Apache 2.0 licence. Por favor, veja o arquivo da licença.
 
-### Notes in U.S. English
+## Notes in U.S. English
 This is a Go (Golang) implementation of the Brazilian Postal Service's (aka "Correios") web service which allows you to grab the price and deadline of a package shipment based on some parameters.
 
 This implementation was based on the **"Technical manual for integrating web services into the Price and Term Calculator System - PTCS.pdf"** (loose translation of the filename) version 2.2 dated 09/25/2019. My last successful test was performed on the night of March 31, 2021, so I believe the documentation remains (and shall continue to be) valid.
