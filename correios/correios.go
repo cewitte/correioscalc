@@ -22,6 +22,7 @@ import (
 	"net/http"
 	"strconv"
 
+	"github.com/cewitte/correioscalc/maptricks"
 	"golang.org/x/net/html/charset"
 )
 
@@ -39,6 +40,14 @@ var CodigosVigentes = map[string]string{
 	"SEDEX 10 (à vista)": "04790",
 	"SEDEX Hoje à vista": "04804",
 }
+
+var Formatos = map[int]string{
+	1: "Formato caixa/pacote",
+	2: "Formato rolo/prisma",
+	3: "Envelope",
+}
+
+var CodigosVigentesPorCodigo = maptricks.ReverseMap(CodigosVigentes)
 
 // CalcPrecoPrazo encapsula os parâmetros de uma requisição para o WebService dos Correios que informa o preço, prazo e outras opção de uma encomenda a ser entregue pelos Correios.
 type CalcPrecoPrazo struct {
